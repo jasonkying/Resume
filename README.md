@@ -1,11 +1,13 @@
 #Jialong Ying (應嘉龍)  
 Software Engineer  
- 
+
 ##Contact Information  
 Email: jasonkying@126.com  
 Location: Chengdu, Sichuan Province, P.R.China.  
  
 ##Education:  
+![Sichuan University](https://github.com/jasonkying/Resume/blob/master/school_badge.png)  
+ 
 Sichuan University, 2011 June, Master of Science, Software Engineer.  
 Sichuan University, 2008 June, Bachelor of Science, Software Engineer.  
  
