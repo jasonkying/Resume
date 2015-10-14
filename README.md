@@ -17,7 +17,7 @@ Sichuan University, 2008 June, Bachelor of Science, Software Engineer.
 Chengdu, China(2011.7-present)  
  
 **Software Engineer Intern**  
-Saset Healthcare. Chengdu, China(2008.10-2011.7)  
+Saset (Chengdu) Inc, China(2008.10-2011.7)  
  
 **Project Manager Intern**  
 LongXin Tech Co, Ltd. Chengdu, China(2008.6-2008.8) 
