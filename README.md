@@ -17,13 +17,13 @@ Sichuan University, 2008 June, Bachelor of Science, Software Engineer.
 Chengdu, China(2011.7-present)  
  
 **Software Engineer Intern**  
-Saset (Chengdu) Inc, China(2008.10-2011.7)  
+[Saset (Chengdu) Inc](http://www.sasethealthcare.com/), China (2008.10-2011.7)  
  
 **Project Manager Intern**  
-LongXin Tech Co, Ltd. Chengdu, China(2008.6-2008.8) 
+LongXin Tech Co, Ltd. Chengdu, China (2008.6-2008.8) 
 
 **Project Manager Intern**  
-HuaDee Training Center. Chengdu, China(2007.8-2007.9)  
+HuaDee Training Center. Chengdu, China (2007.8-2007.9)  
  
 ##Projects  
 +**B Mode Imaging Time Reduction**  
@@ -50,5 +50,4 @@ Simulated ultrasound D mode imaging process(since beam forming).
 Collected stockholders' requirements to compose User Specification for project **Management Platform for Technical Employees of Air China Limited**.  
  
 ##Skills 
-`C/C++` `Java` `C#` `Python` `STL` `MFC` `CUDA` `Matlab`  
-`Visual Studio` `Eclipse` `Codeblocks` `Rational Rose` `Linux`
+`C/C++` `Java` `C#` `Python` `STL` `MFC` `CUDA` `Matlab` `Visual Studio` `Eclipse` `Codeblocks` `Rational Rose` `Linux`
