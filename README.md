@@ -1,4 +1,6 @@
 #Jialong Ying (應嘉龍)  
+![Jialong_Ying](https://github.com/jasonkying/Resume/blob/master/JialongYing_smallsize.png)  
+ 
 **Software Engineer**  
 
 ##Contact Information  
