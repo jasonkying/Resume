@@ -45,7 +45,7 @@ Improved image registration accuracy of WFOV by **24%** with **10%** time cost i
 **Technique**: `C/C++`, `Mean Shift Algorithms`, `Windows 7 64bits`, `Visual Studio 2010`  
  
 +**Simulated Ultrasound D Mode Imaging Process**  
-Simulated ultrasound D mode imaging process(since beam forming).  
+I simulated ultrasound D mode imaging process(since beam forming).  
 **Technique**: `Matlab`.  
  
 +**Collected Stockholders' Requirements**  
