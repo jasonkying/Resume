@@ -41,7 +41,7 @@ Increased accuracy of arterial blood Doppler signal by **24.2%** and **31.1%** w
 **Technique**: `C/C++`, `Auto Regressive model`, `Capon/APES`, `Mean Shift Algorithms`, `WinCE 5.0`  
  
 +**Image Registration Accuracy Increase**  
-Improved image registration accuracy of WFOV by **24%** with **10%** time cost increase, using self-modified mean-shift algorithm, compared to MSAD.  
+I improved image registration accuracy of WFOV by **24%** with **10%** time cost increase, using self-modified mean-shift algorithm, compared to MSAD.  
 **Technique**: `C/C++`, `Mean Shift Algorithms`, `Windows 7 64bits`, `Visual Studio 2010`  
  
 +**Simulated Ultrasound D Mode Imaging Process**  
