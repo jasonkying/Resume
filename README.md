@@ -49,7 +49,7 @@ Simulated ultrasound D mode imaging process(since beam forming).
 **Technique**: `Matlab`.  
  
 +**Collected Stockholders' Requirements**  
-Collected stockholders' requirements to compose User Specification for project **Management Platform for Technical Employees of Air China Limited**.  
+I collected stockholders' requirements to compose User Specification for project **Management Platform for Technical Employees of Air China Limited**.  
  
 ##Skills 
 `C/C++` `Java` `C#` `Python` `STL` `MFC` `CUDA` `Matlab` `Visual Studio` `Eclipse` `Codeblocks` `Rational Rose` `Linux`
