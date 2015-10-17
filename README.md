@@ -29,15 +29,15 @@ HuaDee Training Center. Chengdu, China (2007.8-2007.9)
  
 ##Projects  
 +**B Mode Imaging Time Reduction**  
-Reduced imaging time for B mode medical ultrasound system by **30%** and improved frame rate by **42%** with the same image quality, using optimized B mode imaging procedure transplanted from CPU platform to CPU/GPU combined platform.  
+I reduced imaging time for B mode medical ultrasound system by **30%** and improved frame rate by **42%** with the same image quality, using optimized B mode imaging procedure transplanted from CPU platform to CPU/GPU combined platform.  
 **Technique**: `C/C++`, `CUDA FFTW libs`, `Windows 7 64bits`, `Visual Studio 2010`  
  
 +**B Mode Image Speckle Reduction**  
-Reduced ultrasound B mode image speckle and increased image SNR by **21.0%**, using local histogram matching algorithm.  
+I reduced ultrasound B mode image speckle and increased image SNR by **21.0%**, using local histogram matching algorithm.  
 **Technique**: `C/C++`, `Windows 7 64bits`, `Visual Studio 2010`  
  
 +**Blood Doppler Signal Accuracy Increase**  
-Increased accuracy of arterial blood Doppler signal by **24.2%** and **31.1%** with PG-Capon/PG-APES algorithms, compared to FFT.   
+I increased accuracy of arterial blood Doppler signal by **24.2%** and **31.1%** with PG-Capon/PG-APES algorithms, compared to FFT.   
 **Technique**: `C/C++`, `Auto Regressive model`, `Capon/APES`, `Mean Shift Algorithms`, `WinCE 5.0`  
  
 +**Image Registration Accuracy Increase**  
