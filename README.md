@@ -3,7 +3,7 @@
  
 **Software Engineer**  
 
-##Contact Information  
+##Contact Information: 
 Email: jasonkying@126.com  
 Location: Chengdu, Sichuan Province, P.R.China.  
  
