@@ -27,7 +27,7 @@ LongXin Tech Co, Ltd. Chengdu, China (2008.6-2008.8)
 **Project Manager Intern**  
 HuaDee Training Center. Chengdu, China (2007.8-2007.9)  
  
-##Projects  
+##Projects:
 +**B Mode Imaging Time Reduction**  
 I reduced imaging time for B mode medical ultrasound system by **30%** and improved frame rate by **42%** with the same image quality, using optimized B mode imaging procedure transplanted from CPU platform to CPU/GPU combined platform.  
 **Technique**: `C/C++`, `CUDA FFTW libs`, `Windows 7 64bits`, `Visual Studio 2010`  
@@ -51,5 +51,5 @@ I simulated ultrasound D mode imaging process(since beam forming).
 +**Collected Stockholders' Requirements**  
 I collected stockholders' requirements to compose User Specification for project **Management Platform for Technical Employees of Air China Limited**.  
  
-##Skills 
+##Skills:
 `C/C++` `Java` `C#` `Python` `STL` `MFC` `CUDA` `Matlab` `Visual Studio` `Eclipse` `Codeblocks` `Rational Rose` `Linux`
