@@ -1,6 +1,5 @@
 #Jialong Ying (應嘉龍)  
 
-
 **Super Software Engineer**  
 
 ##Contact Information: 
