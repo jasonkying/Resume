@@ -5,8 +5,8 @@
 ##Contact Information: 
 Email: jasonkying@126.com  
 Location: Chengdu, Sichuan Province, P.R.China.  
- 
-##Education:  
+  
+##Education:   
 [![SCU]](http://www.scu.edu.cn/en/)
 [SCU]:https://github.com/jasonkying/Resume/blob/master/school_badge.png "Sichuan University"
  
