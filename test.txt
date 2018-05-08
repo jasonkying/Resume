@@ -2,3 +2,4 @@ this is a new test.txt file
 add one new line
 add second new line again
 add third line from remote 
+add fourth line
