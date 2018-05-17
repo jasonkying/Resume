@@ -2,3 +2,4 @@ add one new line
 add third line
 add 4th line
 add second line
+delete a line
